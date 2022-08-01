@@ -1,0 +1,41 @@
+```
+--allman false
+--binarygrouping 4,8
+--closingparen balanced
+--commas always
+--conflictmarkers reject
+--decimalgrouping 3,6
+--elseposition same-line
+--empty void
+--exponentcase lowercase
+--exponentgrouping disabled
+--fractiongrouping disabled
+--fragment false
+--header ignore
+--hexgrouping 4,8
+--hexliteralcase uppercase
+--ifdef indent
+--importgrouping testable-bottom
+--indent 4
+--indentcase false
+--linebreaks lf
+--octalgrouping 4,8
+--operatorfunc spaced
+--patternlet hoist
+--ranges spaced
+--self remove
+--selfrequired 
+--semicolons inline
+--stripunusedargs always
+--trailingclosures 
+--trimwhitespace always
+--wraparguments before-first
+--wrapcollections before-first
+--xcodeindentation disabled
+--disable andOperator,anyObjectProtocol,blankLinesAroundMark,blankLinesAtEndOfScope,blankLinesAtStartOfScope,blankLinesBetweenScopes,braces,consecutiveBlankLines,consecutiveSpaces,duplicateImports,elseOnSameLine,emptyBraces,fileHeader,hoistPatternLet,indent,leadingDelimiters,linebreakAtEndOfFile,linebreaks,numberFormatting,ranges,redundantBackticks,redundantBreak,redundantExtensionACL,redundantFileprivate,redundantGet,redundantInit,redundantLet,redundantLetError,redundantNilInit,redundantObjc,redundantPattern,redundantRawValues,redundantReturn,redundantVoidReturnType,semicolons,spaceAroundBrackets,spaceAroundComments,spaceAroundGenerics,spaceAroundOperators,spaceAroundParens,spaceInsideBraces,spaceInsideBrackets,spaceInsideComments,spaceInsideGenerics,spaceInsideParens,specifiers,strongOutlets,strongifiedSelf,todos,trailingClosures,typeSugar,unusedArguments,void,wrapArguments,yodaConditions
+
+# rules
+--rules redundantParens,redundantSelf,sortedImports,trailingCommas,trailingSpace
+
+--exclude Pods,Generated
+```
