@@ -1,2 +1,2 @@
-# Pokemon World iOS
+# Pokemon World App
 The world's best Pokemon app
